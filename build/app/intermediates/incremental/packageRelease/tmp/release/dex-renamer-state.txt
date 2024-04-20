@@ -1,0 +1,4 @@
+#Sat Apr 20 21:45:27 CEST 2024
+base.0=C\:\\Users\\Adam\\Downloads\\meteoapp-develop (3)\\meteoapp-develop\\meteoapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

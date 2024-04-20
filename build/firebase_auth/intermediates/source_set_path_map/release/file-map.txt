@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-0 C:\Users\Adam\.gradle\caches\transforms-3\4c474fa2a4fbddcc3c7f72a090366223\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-1 C:\Users\Adam\.gradle\caches\transforms-3\74fddc11051ffc34543b92ed0336cc3c\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-2 C:\Users\Adam\.gradle\caches\transforms-3\9dbfef063d18db28385b4ea3bc986efd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-3 C:\Users\Adam\.gradle\caches\transforms-3\a705c39921de916e0805cd339f8d2bca\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-4 C:\Users\Adam\.gradle\caches\transforms-3\b595558329743e43acc4858c6068827d\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-5 C:\Users\Adam\.gradle\caches\transforms-3\dbb2762cd310fe6ae3c5df5e56177b7b\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 C:\Users\Adam\.gradle\caches\transforms-3\df41a1ca536669bba324698d5d3eddf2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-7 C:\Users\Adam\.gradle\caches\transforms-3\e610c99bdb7acb6fd8c7f39ea6f26d0d\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 C:\Users\Adam\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.14.1\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 C:\Users\Adam\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.14.1\android\src\release\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_core\intermediates\packaged_res\release

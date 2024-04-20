@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://meteorat-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">694783836049</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhiIheYem3ySQt5ORaoDzgEk08Ho-Hkh8</string>
+    <string name="google_app_id" translatable="false">1:694783836049:android:f828e9ec84f9bd40bee430</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhiIheYem3ySQt5ORaoDzgEk08Ho-Hkh8</string>
+    <string name="google_storage_bucket" translatable="false">meteorat.appspot.com</string>
+    <string name="project_id" translatable="false">meteorat</string>
+</resources>

@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-0 C:\Users\Adam\.gradle\caches\transforms-3\4c474fa2a4fbddcc3c7f72a090366223\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.4.2-1 C:\Users\Adam\.gradle\caches\transforms-3\74fddc11051ffc34543b92ed0336cc3c\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-2 C:\Users\Adam\.gradle\caches\transforms-3\9dbfef063d18db28385b4ea3bc986efd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-3 C:\Users\Adam\.gradle\caches\transforms-3\b595558329743e43acc4858c6068827d\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-4 C:\Users\Adam\.gradle\caches\transforms-3\dbb2762cd310fe6ae3c5df5e56177b7b\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-5 C:\Users\Adam\.gradle\caches\transforms-3\df41a1ca536669bba324698d5d3eddf2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-6 C:\Users\Adam\.gradle\caches\transforms-3\e610c99bdb7acb6fd8c7f39ea6f26d0d\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\Adam\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.14.0\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\Adam\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.14.0\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\firebase_core\intermediates\packaged_res\release

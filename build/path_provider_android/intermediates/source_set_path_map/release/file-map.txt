@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-0 C:\Users\Adam\.gradle\caches\transforms-3\4c474fa2a4fbddcc3c7f72a090366223\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-1 C:\Users\Adam\.gradle\caches\transforms-3\9dbfef063d18db28385b4ea3bc986efd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-2 C:\Users\Adam\.gradle\caches\transforms-3\b595558329743e43acc4858c6068827d\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-3 C:\Users\Adam\.gradle\caches\transforms-3\df41a1ca536669bba324698d5d3eddf2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\Adam\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 C:\Users\Adam\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\release\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\path_provider_android\generated\res\rs\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 C:\Users\Adam\Downloads\meteoapp-develop (3)\meteoapp-develop\meteoapp\build\path_provider_android\intermediates\merged_res\release
